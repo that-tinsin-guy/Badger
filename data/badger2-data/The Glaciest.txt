@@ -6,25 +6,25 @@
 6	hotel minibar key
 7	fancy chocolate
 8	bellhop's hat
-9	ice porter
+9	ice porter	eat
 10	Perfect Freeze	skill
 11	VYKEA instructions
 12	VYKEA hex key
 13	VYKEA woadpaint
-14	VYKEA meatballs
-15	VYKEA mead
+14	VYKEA meatballs	eat
+15	VYKEA mead	eat
 16	VYKEA lightning rune
 17	VYKEA blood rune
 18	VYKEA frenzy rune
 19	octolus oculus
 20	octolus-skin cloak
-21	bottle of norwhiskey
+21	bottle of norwhiskey	eat
 22	norwhal helmet
-23	tin of submardines
+23	tin of submardines	eat
 24	sardine can key
 25	shoulder-warming lotion
-26	iceberg lettuce
-27	ice wine
+26	iceberg lettuce	eat
+27	ice wine	eat
 28	one-day ticket to The Glaciest
 29	Wal-Mart snowglobe
 30	Wal-Mart nametag
