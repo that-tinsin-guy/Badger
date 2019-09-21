@@ -6,6 +6,7 @@ script "Badger2.ash";
 	record mytype{
 		string namefield;
 		string typefield;
+		string additional;
 	};
 	
 	mytype [int] itemlist;
@@ -29,6 +30,14 @@ script "Badger2.ash";
 	int totalamt;
 
 	string [string] results;
+
+
+	string html, htmlkoldb, htmlscope, ret;
+	string bookshelfHtml, familiarNamesHtml;
+
+
+
+
 	
 
 int i_a(string name)
@@ -59,6 +68,7 @@ int i_a(string name)
 	return amt;
 }
 
+
 boolean hasItem(string name)
 {
 	int amt = i_a(name);
@@ -70,6 +80,17 @@ boolean hasItem(string name)
 	}
 }
 
+
+
+void tattooCheck(string outfit, string gif, string i1, string i2, string i3, string i4, string i5, string i6, string i7)
+{
+	if(last_index_of(html, "/"+gif+".gif") > 0)
+	{
+		ret += "|1";
+	}
+}
+
+
 void checkList(string filename, string src)
 {
 	load_current_map(filename, itemlist);
@@ -77,6 +98,21 @@ void checkList(string filename, string src)
 	totalamt = 0;
 	foreach x in itemlist
 	{
+		if(itemlist[x].typefield == ""){
+			if (hasItem(itemlist[x].namefield)){
+				totalamt+=1;
+				
+				if (verbose){
+				print("Have item: " + itemlist[x].namefield + "!", "green");
+				}
+				
+				
+			}else{
+			if (verbose){
+				print("Lacking item: " + itemlist[x].namefield + "...", "red");
+				}
+			}
+		}
 		if(itemlist[x].typefield == "item"){
 			if (hasItem(itemlist[x].namefield)){
 				totalamt+=1;
