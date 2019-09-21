@@ -131,10 +131,71 @@ void checkList(string filename, string src)
 		results[src] = altprog;
 }
 
+
+
+void checkAllLists()
+{
+	verbose = false;
+	badges = false;
+	string [int] masterpost;
+	file_to_map("badger2-data/_full.txt", masterpost);
+	print("booting masterposter...");
+	foreach x in masterpost
+	{
+	checkList("badger2-data/" + masterpost[x] + ".txt", masterpost[x]);
+	}
+	map_to_file(results, "badger2-data/_personal-badge-results.txt");
+	print_html("<a href='https://tinsin.party/kol/badger2.html'>CLICK HERE</a>");
+	
+}
+
+void checkAllBasic()
+{
+	verbose = false;
+	badges = false;
+	string [int] masterpost;
+	file_to_map("badger2-data/_full.basic.txt", masterpost);
+	print("booting masterposter...");
+	foreach x in masterpost
+	{
+	checkList("badger2-data/" + masterpost[x] + ".txt", masterpost[x]);
+	}
+	map_to_file(results, "badger2-data/_personal-badge-results.txt");
+	print_html("<a href='https://tinsin.party/kol/badger2.html'>CLICK HERE</a>");	
+}
+
+
+void checkAllIOTMs()
+{
+	verbose = false;
+	badges = false;
+	string [int] masterpost;
+	file_to_map("badger2-data/_full.iotm.txt", masterpost);
+	print("booting masterposter...");
+	foreach x in masterpost
+	{
+	checkList("badger2-data/" + masterpost[x] + ".txt", masterpost[x]);
+	}
+	map_to_file(results, "badger2-data/_personal-badge-results.txt");
+	print_html("<a href='https://tinsin.party/kol/badger2.html'>CLICK HERE</a>");
+	
+}
+
+
+
 void main(string whichFile)
 {
 	if (whichFile == "")
 	{
+	checkAllBasic();
+	}
+	else if (whichFile == "ALL")
+	{
+	checkAllLists();
+	}
+	else if (whichFile == "IOTMs")
+	{
+	checkAllIOTMs();
 	}
 	else
 	{
