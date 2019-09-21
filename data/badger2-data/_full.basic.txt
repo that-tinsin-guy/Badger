@@ -1,0 +1,5 @@
+1	The Sleazy Back Alley
+2	The Outskirts of Cobb's Knob
+3	The Overgrown Lot
+4	The Haunted Pantry
+5	The Haiku Dungeon

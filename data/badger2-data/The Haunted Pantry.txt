@@ -1,0 +1,11 @@
+1	asparagus knife	item
+2	razor-sharp can lid	item
+3	stalk of asparagus	item
+4	meat paste	item
+5	tomato	item
+6	possessed tomato	item
+7	magicalness-in-a-can	item
+8	quasi-ethereal macaroni fragments	item
+9	whiskey and soda
+10	pat-a-cake pendant
+11	tasty tart

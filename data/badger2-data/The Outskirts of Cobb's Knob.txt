@@ -1,0 +1,14 @@
+1	chef's hat	item
+2	Knob Goblin pants	item
+3	Knob Goblin tongs	item
+4	bowl of cottage cheese	item
+5	Colon Annihilation Hot Sauce	item
+6	Knob Goblin scimitar	item
+7	viking helmet	item
+8	Knob Goblin firecracker	item
+9	strongness elixir	item
+10	Kiss the Knob apron	item
+11	knobby helmet turtle	item
+12	ring of half-assed regeneration	item
+13	Knob Goblin lunchbox	item
+14	Knob Goblin Uberpants	item

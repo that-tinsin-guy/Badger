@@ -1,0 +1,11 @@
+1	unflavored wine cooler	item
+2	mostly-broken sunglasses	item
+3	pigeon egg	item
+4	jaunty feather	item
+5	premium malt liquor	item
+6	brown paper bag mask	item
+7	brown paper pants	item
+8	carton of snake milk	item
+9	sewer snake	item
+10	The Lot's engagement ring
+11	turtle-shaped rock
