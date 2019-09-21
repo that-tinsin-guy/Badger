@@ -156,6 +156,38 @@ void checkList(string filename, string src)
 				}
 			}	
 		}
+		if(itemlist[x].typefield == "trophy"){
+			string trophypage = visit_url("trophies.php");
+			matcher trophymatcher = create_matcher(itemlist[x].namefield,trophypage);
+			if (find(trophymatcher)){
+				totalamt+=1;
+				if (verbose){
+				print("Have trophy: " + itemlist[x].namefield + "!", "green");
+				}
+				
+				
+			}else{
+			if (verbose){
+				print("Lacking trophy: " + itemlist[x].namefield + "...", "red");
+				}
+			}	
+		}
+		if(itemlist[x].typefield == "tattoo"){
+			string tatpage = visit_url("account_tattoos.php");
+			matcher tatmatcher = create_matcher(itemlist[x].additional,tatpage);
+			if (find(tatmatcher)){
+				totalamt+=1;
+				if (verbose){
+				print("Have tattoo: " + itemlist[x].namefield + "!", "green");
+				}
+				
+				
+			}else{
+			if (verbose){
+				print("Lacking tattoo: " + itemlist[x].namefield + "...", "red");
+				}
+			}	
+		}
 		
 	}
 	print("You have " + totalamt + " out of " + count(itemlist) + ".", "olive");
