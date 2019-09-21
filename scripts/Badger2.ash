@@ -80,16 +80,15 @@ boolean hasItem(string name)
 	}
 }
 
-
-
-void tattooCheck(string outfit, string gif, string i1, string i2, string i3, string i4, string i5, string i6, string i7)
+boolean snackcheck(string name)
 {
-	if(last_index_of(html, "/"+gif+".gif") > 0)
-	{
-		ret += "|1";
-	}
+	html = to_lower_case(visit_url("showconsumption.php"));
+	name = to_lower_case(name);
+	name = replace_string(name, "(", "\\(");
+	name = replace_string(name, ")", "\\)");
+	matcher m = create_matcher(">\\s*" + name + "(?:\\s*)</a>", to_lower_case(html));
+	return find(m);
 }
-
 
 void checkList(string filename, string src)
 {
@@ -113,7 +112,7 @@ void checkList(string filename, string src)
 				}
 			}
 		}
-		if(itemlist[x].typefield == "item"){
+		if(itemlist[x].typefield == "eat"){
 			if (hasItem(itemlist[x].namefield)){
 				totalamt+=1;
 				
@@ -121,7 +120,12 @@ void checkList(string filename, string src)
 				print("Have item: " + itemlist[x].namefield + "!", "green");
 				}
 				
+			}else if (snackcheck(itemlist[x].namefield)){
+				totalamt+=1;
 				
+				if (verbose){
+				print("Consumed item: " + itemlist[x].namefield + "!", "orange");
+				}
 			}else{
 			if (verbose){
 				print("Lacking item: " + itemlist[x].namefield + "...", "red");
