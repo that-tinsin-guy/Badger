@@ -10,11 +10,11 @@
 10	barnacled barrel
 11	barrel gun
 12	tiny barrel
-13	bottle of Amontillado
-14	barrel-aged martini
+13	bottle of Amontillado	eat
+14	barrel-aged martini	eat
 15	barrel gun
-16	barrel cracker
-17	barrel pickle
+16	barrel cracker	eat
+17	barrel pickle	eat
 18	tiny barrel
 19	cute mushroom
 20	vibrating mushroom
@@ -29,3 +29,4 @@
 29	barrelhead
 30	bottoms of the barrel
 31	chest barrel
+32	Lil' Barrel Mimic	familiar
