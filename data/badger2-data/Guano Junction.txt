@@ -1,0 +1,14 @@
+1	baseball
+2	sonar-in-a-biscuit
+3	bat guano
+4	briefcase
+5	wad of dough
+6	batgut
+7	bat wing
+8	guancertina
+9	broken skull
+10	loose teeth
+11	smoking talon
+12	whatsit-covered turtle shell
+13	Grey Guanon
+14	Eau de Guaneau

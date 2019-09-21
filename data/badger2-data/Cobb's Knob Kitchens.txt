@@ -1,0 +1,13 @@
+1	oven mitts
+2	overcookie
+3	dry noodles
+4	Knob Goblin spatula
+5	Knob mushroom
+6	spices
+7	Knob sausage
+8	tomato
+9	wad of dough
+10	Knob Goblin elite helm
+11	Knob Goblin elite pants
+12	Knob Goblin elite polearm
+13	Knob Kitchen grab-bag

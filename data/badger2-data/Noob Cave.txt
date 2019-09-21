@@ -1,0 +1,4 @@
+1	lemon
+2	orange
+3	bottle of vodka
+4	popsicle stick

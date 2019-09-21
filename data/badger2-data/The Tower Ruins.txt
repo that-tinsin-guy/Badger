@@ -1,0 +1,9 @@
+1	disembodied brain
+2	wad of dough
+3	grapefruit
+4	grapes
+5	lemon
+6	orange
+7	strawberry
+8	taco shell
+9	uncooked chorizo

@@ -1,13 +1,12 @@
-1	spider web	item
-2	dirty hobo gloves	item
-3	Mad Train wine	item
-4	moxie weed	item
-5	Boozehounds Anonymous token	item
-6	beer-battered accordion	item
-7	bum cheek	item
-8	dented harmonica	item
-9	cheap cigar butt	item
-10	crazy bastard sword	item
-11	ice-cold fotie	item
-12	distilled fortified wine	item
-13	sewer turtle	item
+1	spider web
+2	dirty hobo gloves
+3	Mad Train wine
+4	moxie weed
+5	Boozehounds Anonymous token
+6	beer-battered accordion
+7	bum cheek
+8	dented harmonica
+9	cheap cigar butt
+10	crazy bastard sword
+11	ice-cold fotie
+12	distilled fortified wine

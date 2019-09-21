@@ -1,0 +1,9 @@
+1	cop dollar
+2	gold detective badge
+3	hardboiled egg
+4	Falcon™ Maltese Liquor
+5	shoe gum
+6	detective roscoe
+7	noir fedora
+8	trench coat
+9	detective tattoo

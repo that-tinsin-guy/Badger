@@ -1,0 +1,9 @@
+1	ancient medicinal herbs
+2	ice rice
+3	iced plum wine
+4	training belt
+5	training legwarmers
+6	training helmet
+7	training scroll: Shattering Punch
+8	training scroll: Snokebomb
+9	training scroll: Shivering Monkey Technique

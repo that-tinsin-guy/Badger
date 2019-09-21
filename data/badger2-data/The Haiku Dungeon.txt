@@ -1,16 +1,16 @@
-1	bargain flash powder	item
-2	cheap plastic blowgun	item
-3	third-hand nunchaku	item
-4	Bash-Ōs cereal	item
-5	bottle of sake	item
-6	little round pebble	item
-7	bugbear bungguard	item
-8	bugbear beanie	item
-9	Orcish meat locker	item
-10	rusty metal ring	item
-11	rusty metal shaft	item
-12	dope gangsta bling-bling	item
-13	out-of-tune biwa	item
-14	terrible poem	item
-15	gravy fairy boat	item
-16	samurai turtle	item
+1	bargain flash powder
+2	cheap plastic blowgun
+3	third-hand nunchaku
+4	Bash-Ōs cereal
+5	bottle of sake
+6	little round pebble
+7	bugbear bungguard
+8	bugbear beanie
+9	Orcish meat locker
+10	rusty metal ring
+11	rusty metal shaft
+12	dope gangsta bling-bling
+13	out-of-tune biwa
+14	terrible poem
+15	fairy gravy boat
+16	samurai turtle

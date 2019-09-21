@@ -1,0 +1,31 @@
+1	little firkin
+2	normal barrel
+3	big tun
+4	weathered barrel
+5	dusty barrel
+6	disintegrating barrel
+7	moist barrel
+8	rotting barrel
+9	mouldering barrel
+10	barnacled barrel
+11	barrel gun
+12	tiny barrel
+13	bottle of Amontillado
+14	barrel-aged martini
+15	barrel gun
+16	barrel cracker
+17	barrel pickle
+18	tiny barrel
+19	cute mushroom
+20	vibrating mushroom
+21	barrel beryl
+22	water log
+23	double barreled barrel gun
+24	triple barreled barrel gun
+25	barrel beryl choker
+26	barrel beryl nose ring
+27	barrel beryl ring
+28	map to the Biggest Barrel
+29	barrelhead
+30	bottoms of the barrel
+31	chest barrel

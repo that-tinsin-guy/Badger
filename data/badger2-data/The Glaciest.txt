@@ -1,0 +1,35 @@
+1	perfect ice cube
+2	ice hotel bell
+3	bag of foreign bribes
+4	exotic travel brochure
+5	frozen shampoo-conditioner
+6	hotel minibar key
+7	bellhop's hat
+8	ice porter
+9	Wal-Mart gift certificate
+10	Perfect Freeze	skill
+11	VYKEA instructions
+12	VYKEA hex key
+13	VYKEA woadpaint
+14	VYKEA meatballs
+15	VYKEA mead
+16	VYKEA lightning rune
+17	VYKEA blood rune
+18	VYKEA frenzy rune
+19	octolus oculus
+20	octolus-skin cloak
+21	bottle of norwhiskey
+22	norwhal helmet
+23	tin of submardines
+24	sardine can key
+25	shoulder-warming lotion
+26	iceberg lettuce
+27	ice wine
+28	one day ticket to The Glaciest
+29	Wal-Mart snowglobe
+30	Wal-Mart nametag
+31	Wal-Mart overalls
+32	Refusal to Freeze	skill
+33	Beardfreeze	skill
+34	Frost Bite	skill
+35	Wal-Mart Tattoo	tattoo

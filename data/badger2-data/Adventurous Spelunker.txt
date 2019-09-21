@@ -1,9 +1,8 @@
-1	Tales of Spelunking	item
-2	Speluck	skill
-3	Spelunker's whip	item
-4	Spelunker's khakis	item
-5	Spelunker's fedora	item
-6	solid gold jewel	item
-7	LOLmec statuette	item
-8	Stembridge sidearm	item
-9	Adventurous Spelunker	familiar
+1	Tales of Spelunking
+2	Spelunker of Fortune
+3	Spelunker's whip
+4	Spelunker's khakis
+5	Spelunker's fedora
+6	solid gold jewel
+7	LOLmec statuette
+8	Stembridge sidearm

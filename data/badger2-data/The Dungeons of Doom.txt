@@ -1,0 +1,12 @@
+1	magic whistle
+2	ring of aggravate monster
+3	small box
+4	cornuthaum
+5	large box
+6	mind flayer corpse
+7	vorpal blade
+8	pile of gold coins
+9	baby killer bee
+10	royal jelly
+11	Platinum Yendorian Express Card
+12	magic lamp

@@ -1,0 +1,11 @@
+1	shoulder-warming lotion	
+2	iceberg lettuce	
+3	ice wine	
+4	one-day ticket to The Glaciest	
+5	Wal-Mart snowglobe	
+6	Wal-Mart nametag	
+7	Wal-Mart overalls	
+8	Refusal to Freeze	skill
+9	Beardfreeze	skill
+10	Frost Bite	skill
+11	Wal-Mart Tattoo	tattoo
