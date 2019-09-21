@@ -4,9 +4,9 @@
 4	exotic travel brochure
 5	frozen shampoo-conditioner
 6	hotel minibar key
-7	bellhop's hat
-8	ice porter
-9	Wal-Mart gift certificate
+7	fancy chocolate
+8	bellhop's hat
+9	ice porter
 10	Perfect Freeze	skill
 11	VYKEA instructions
 12	VYKEA hex key
@@ -25,11 +25,14 @@
 25	shoulder-warming lotion
 26	iceberg lettuce
 27	ice wine
-28	one day ticket to The Glaciest
+28	one-day ticket to The Glaciest
 29	Wal-Mart snowglobe
 30	Wal-Mart nametag
 31	Wal-Mart overalls
 32	Refusal to Freeze	skill
 33	Beardfreeze	skill
 34	Frost Bite	skill
-35	Wal-Mart Tattoo	tattoo
+35	Wal-Mart tattoo	tattoo	Walmarttat
+36	Some Assembly Required	trophy
+37	Bucket List	trophy
+38	Wal-Mart gift certificate
