@@ -249,7 +249,7 @@ void checkAllIOTMs()
 	checkList("badger2-data/" + masterpost[x] + ".txt", masterpost[x]);
 	}
 	map_to_file(results, "badger2-data/_personal-badge-results.txt");
-	print_html("<a href='https://tinsin.party/kol/badger2.html'>CLICK HERE</a>");
+	print_html("<a href='https://tinsin.party/kol/badger.html'>CLICK HERE</a>");
 	
 }
 
