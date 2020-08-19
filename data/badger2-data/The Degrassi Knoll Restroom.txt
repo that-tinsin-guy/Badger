@@ -1,6 +1,0 @@
-1	bugbear beanie
-2	bugbear bungguard
-3	gnoll lips
-4	gnoll teeth
-5	Gnollish plunger
-6	Gnollish flyswatter

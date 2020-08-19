@@ -1,6 +1,0 @@
-1	gnoll lips
-2	Gnollish toolbox
-3	gnoll teeth
-4	tires
-5	bugbear beanie
-6	bugbear bungguard

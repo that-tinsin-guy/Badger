@@ -1,8 +1,0 @@
-1	VYKEA instructions
-2	VYKEA hex key
-3	VYKEA woadpaint
-4	VYKEA meatballs
-5	VYKEA mead
-6	VYKEA lightning rune
-7	VYKEA blood rune
-8	VYKEA frenzy rune

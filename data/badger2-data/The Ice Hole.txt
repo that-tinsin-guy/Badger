@@ -1,6 +1,0 @@
-1	octolus oculus
-2	octolus-skin cloak
-3	bottle of norwhiskey
-4	norwhal helmet
-5	tin of submardines
-6	sardine can key
