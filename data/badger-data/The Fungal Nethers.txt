@@ -1,0 +1,16 @@
+1	Knob mushroom
+2	fizzing spore pod
+3	hard spore pod
+4	warm mushroom
+5	cool mushroom
+6	cool spore pod
+7	flaming mushroom
+8	hot spore pod
+9	Knoll mushroom
+10	paisley spore pod
+11	stinky mushroom
+12	veiny spore pod
+13	frozen mushroom
+14	jingling spore pod
+15	glowing spore pod
+16	pointy mushroom

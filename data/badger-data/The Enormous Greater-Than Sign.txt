@@ -1,0 +1,9 @@
+1	lowercase a
+2	percent sign
+3	left parenthesis
+4	left bracket
+5	percent sign
+6	equal sign
+7	dollar sign
+8	right parenthesis
+9	plus sign

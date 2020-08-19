@@ -1,0 +1,4 @@
+1	bent scrap metal
+2	funky junk key
+3	molten scrap metal
+4	jagged scrap metal

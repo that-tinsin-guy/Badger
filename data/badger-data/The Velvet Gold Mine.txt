@@ -1,0 +1,21 @@
+1	glowing New Age crystal
+2	New Age healing crystal
+3	Gold Velvet™ whiskey
+4	fireproof megaphone
+5	broken high-temperature mining drill
+6	high-temperature mining mask
+7	mineapple
+8	half-melted hula girl
+9	Mr. Choch's bone
+10	labrador cookie
+11	1,970 carat gold
+12	unsmoothed velvet
+13	smooth velvet bra
+14	smooth velvet pocket square
+15	smooth velvet socks
+16	smooth velvet hat
+17	smooth velvet shirt
+18	smooth velvet hanky
+19	smooth velvet pants
+20	thin gold wire
+21	insulated gold wire

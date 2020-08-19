@@ -1,0 +1,15 @@
+1	1952 Mickey Mantle card
+2	white mana
+3	black mana
+4	red mana
+5	green mana
+6	blue mana
+7	cubic zirconia
+8	bubblegum heart
+9	valuable coin
+10	The Emperor's dry cleaning
+11	The Emperor's new hat
+12	The Emperor's new shirt
+13	The Emperor's new pants
+14	hermit factoid
+15	gift card

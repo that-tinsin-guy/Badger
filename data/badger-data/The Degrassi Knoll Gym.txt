@@ -1,0 +1,7 @@
+1	eyepatch
+2	gnoll teeth
+3	glass gnoll eye
+4	enchanted barbell
+5	frilly shirt
+6	frilly skirt
+7	maiden wig

@@ -1,0 +1,43 @@
+1	Unconscious Collective
+2	Angry Jung Man
+3	Snow Suit
+4	Adventurous Spelunker
+5	Golden Monkey
+6	Chateau Mantegna
+7	The Crown of Ed the Undying
+8	Dinseylandfill
+9	Barf Mountain
+10	Pirates of the Garbage Barges
+11	The Toxic Teacups
+12	Uncle Gator's Country Fun-Time Liquid Waste Sluice
+13	Maintenance Tunnels Access
+14	Employee Assignment Kiosk
+15	The Dinsey Company Store
+16	The Mayo Clinic
+17	Puck Man
+18	Deck of Every Card
+19	That 70s Volcano
+20	The SMOOCH Army HQ
+21	LavaCo lamp factory
+22	The Bubblin' Caldera
+23	The Towering Inferno Discotheque
+24	Shrine to the Barrel God
+25	haunted doghouse
+26	The Glaciest
+27	The Ice Hotel
+28	VYKEA
+29	The Ice Hole
+30	Wal-Mart
+31	Machine Elf
+32	The Snojo
+33	LT&T Office
+34	Witchess set
+35	Clan Floundry
+36	The Precinct
+37	protonic accelerator pack
+38	Time-Spinner
+39	Trick-or-Treating Tot
+40	Thanksgarden
+41	Gingerbread City
+42	Optimistic Candle
+43	Space Jellyfish

@@ -1,0 +1,13 @@
+1	Tales of Spelunking
+2	Speluck	skill
+3	Spelunker's whip
+4	Spelunker's khakis
+5	Spelunker's fedora
+6	solid gold jewel
+7	LOLmec statuette
+8	Stembridge sidearm
+9	Adventurous Spelunker	familiar
+10	Golden Pickaxe	trophy
+11	Golden Idol	trophy
+12	Golden Moustache	trophy
+13	Golden Burglar	trophy

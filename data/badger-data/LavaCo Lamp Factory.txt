@@ -1,0 +1,22 @@
+1	asbestos thermos
+2	heat-resistant necktie
+3	heat-resistant gloves
+4	lava-proof pants
+5	very hot lunch
+6	gooey lava globs
+7	sticky lava globs
+8	viscous lava globs
+9	fused fuse
+10	empty lava bottle
+11	full lava bottle
+12	red lava globs
+13	blue lava globs
+14	green lava globs
+15	crystalline light bulb
+16	LavaCo™ Lamp housing
+17	red LavaCo Lamp™
+18	blue LavaCo Lamp™
+19	green LavaCo Lamp™
+20	glass ceiling fragments
+21	Mr. Cheeng's 'stache
+22	Mr. Cheeng's spectacles

@@ -1,0 +1,84 @@
+1	Volcoino
+2	grease cannon
+3	liquid rhinestones
+4	disco biscuit
+5	Quaatorade
+6	one-day ticket to That 70s Volcano
+7	biker's hat
+8	feathered headdress
+9	electrician's hardhat
+10	Lava Miner's Daughter
+11	Psycho From The Heat
+12	The Firegate Tapes
+13	"DEBBIE" tattoo kit
+14	Saturday Night thermometer
+15	SMOOCH soda
+16	heat-resistant sheet metal
+17	the tongue of Smimmons
+18	demon makeup kit
+19	Raul's guitar pick
+20	love
+21	Pener's crisps
+22	Pener's drumstick
+23	little deuce cape
+24	signed deuce
+25	SMOOCH coffee cup
+26	glowing New Age crystal
+27	New Age healing crystal
+28	Gold Velvet™ whiskey
+29	fireproof megaphone
+30	broken high-temperature mining drill
+31	high-temperature mining mask
+32	mineapple
+33	half-melted hula girl
+34	Mr. Choch's bone
+35	labrador cookie
+36	1,970 carat gold
+37	unsmoothed velvet
+38	smooth velvet bra
+39	smooth velvet pocket square
+40	smooth velvet socks
+41	smooth velvet hat
+42	smooth velvet shirt
+43	smooth velvet hanky
+44	smooth velvet pants
+45	thin gold wire
+46	insulated gold wire
+47	asbestos thermos
+48	heat-resistant necktie
+49	heat-resistant gloves
+50	lava-proof pants
+51	very hot lunch
+52	gooey lava globs
+53	sticky lava globs
+54	viscous lava globs
+55	fused fuse
+56	empty lava bottle
+57	full lava bottle
+58	red lava globs
+59	blue lava globs
+60	green lava globs
+61	crystalline light bulb
+62	LavaCo™ Lamp housing
+63	red LavaCo Lamp™
+64	blue LavaCo Lamp™
+65	green LavaCo Lamp™
+66	glass ceiling fragments
+67	Mr. Cheeng's 'stache
+68	Mr. Cheeng's spectacles
+69	basaltamander tongue
+70	basaltamander buckler
+71	smelted roe
+72	lavalarva
+73	lavawater
+74	lava balaclava
+75	The One Mood Ring
+76	superheated metal
+77	SMOOCH bracers
+78	SMOOCH kneepads
+79	SMOOCH spaulders
+80	SMOOCH codpiece
+81	SMOOCH breastplate
+82	superduperheated metal
+83	Lavalos core
+84	Lavalos's shell
